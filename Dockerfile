@@ -7,6 +7,8 @@ RUN apk add --update build-base && \
 
 COPY entrypoint.sh /usr/local/bin/
 
+RUN chmod +x /usr/local/bin/entrypoint.sh
+
 WORKDIR /travis
 
 ENTRYPOINT [ "entrypoint.sh" ]
