@@ -1,7 +1,7 @@
 # travis-cli
 
-[![Docker Automated build](https://img.shields.io/docker/automated/ivandelabeldad/travis-cli.svg)](https://store.docker.com/community/images/ivandelabeldad/travis-cli)
-[![Docker Build Status](https://img.shields.io/docker/build/ivandelabeldad/travis-cli.svg)](https://store.docker.com/community/images/ivandelabeldad/travis-cli)
+[![Docker Automated build](https://img.shields.io/docker/automated/ivandelabeldad/travis-cli.svg?style=flat-square)](https://store.docker.com/community/images/ivandelabeldad/travis-cli)
+[![Docker Build Status](https://img.shields.io/docker/build/ivandelabeldad/travis-cli.svg?style=flat-square)](https://store.docker.com/community/images/ivandelabeldad/travis-cli)
 
 Docker with travis command line interface
 
