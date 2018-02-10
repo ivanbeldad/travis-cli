@@ -15,7 +15,7 @@ Docker with travis command line interface
 - Pass the environment variable GITHUB_TOKEN with yours
 
 ```
-docker run --rm -e GITHUB_TOKEN=yourgithubtoken ivandelabeldad/travis-cli
+docker run --rm -e GITHUB_TOKEN="yourgithubtoken" ivandelabeldad/travis-cli
 ```
 
 ### Commands
